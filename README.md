@@ -11,9 +11,10 @@ Open it in Code and again run the client that reads React code into functionalit
 You do that By typing :
   npm run serve <br>
   
-If there are any incmobatibilities remove node_modules folder and readd them via the following lines
-cd my-app <br>
+If there are any incmobatibilities remove node_modules folder and readd them via the following lines<br>
+  in my-app folder run <br>
   npm install <br>
+  npm install react-bootstrap bootstrap<br?
   ...to transfer all the environment you need fot the client side to run on a browser<br>
 typing again: 
   npm run serve <br>
